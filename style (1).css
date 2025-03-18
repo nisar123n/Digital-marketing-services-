@@ -1,0 +1,18 @@
+body {
+    font-size: 15pt;
+}
+form {
+  width: 300px;
+  margin: auto;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
